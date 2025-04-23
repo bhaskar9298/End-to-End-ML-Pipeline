@@ -1,1 +1,1 @@
-# End-to-End-Wine-Quality-Predictor
+# End-to-End-ML-Pipeline
